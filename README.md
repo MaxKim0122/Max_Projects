@@ -1,4 +1,4 @@
-# Max_Projects
+# Projects done from IOD Data & A.I. course
 
 In this project folder, I have uploaded projects that I have done through online course of Data & A.I. from Institute of Data.
 
